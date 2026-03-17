@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Victor Marcinco
 
-<!--
-**victormarcincoferreira-cpu/victormarcincoferreira-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para a área de tecnologia e ciência de dados
+📚 Atualmente estudando: Python, PowerBI, SQL e administração  
+🚀 Objetivo: conquistar minha primeira oportunidade na área de dados 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias em aprendizado
+- Python
+- Git e GitHub
+- Power B.I.
+- Tableau
+- SQL
+  
+
+---
+
+## 📊 Projetos
+Em breve vou adicionar meus projetos aqui 👇
+
+---
+
+## 📫 Contato
+📞 Telefone: (31) 9 7219-9761  
+📧 Email: victor.marcinco.ferreira@gmail.com 
+💼 LinkedIn: linkedin.com/in/victor-marcinco-18314a163
