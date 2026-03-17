@@ -7,11 +7,11 @@
 ---
 
 ## 🧠 Tecnologias em aprendizado
-- Python
-- Git e GitHub
-- Power B.I.
-- Tableau
-- SQL
+- 🐍 Python
+- 🔧 Git e GitHub
+- 📊 Power B.I.
+- 📊 Tableau
+- 📊 SQL
   
 
 ---
