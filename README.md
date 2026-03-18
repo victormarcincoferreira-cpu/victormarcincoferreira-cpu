@@ -17,7 +17,13 @@
 ---
 
 ## 📊 Projetos
-Em breve vou adicionar meus projetos aqui 👇
+- Teste A/b
+- Machine Learning
+- Análise de dados (Python e SQL)
+- Arquitetura de Hardware
+- Visualização de dados (Tableau)
+  
+👇Pin👇
 
 ---
 
